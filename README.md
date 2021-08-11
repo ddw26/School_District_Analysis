@@ -13,20 +13,35 @@ We applied 'NaN' to declare Thomas High School 9th grade as numerically invalid
 
 
 
-- The overall passing score decreases from the original score of 65 to 64.9
+- The overall passing percentage decreases from the original score of 65 to 64.9
 - The average reading score increased by 0.01
-- The passing score decreased by 0.01
-- The passing reading and average math scores remained relatively the same as the original data frame.
+- The passing math percentage decreased by 0.01
+- The passing reading percentage and average math score remained relatively the same as the original data frame.
 
 **There were no significant changes**
 
-[Primary District Summary]
+[**PRIMARY DISTRICT SUMMARY**]
+
 ![District Summ Changes Primary](https://user-images.githubusercontent.com/77905862/128957976-3933fc78-982c-4352-a257-0396ef1dbe48.png)
-[Secondary District Summary]
+[**SECONDARY DISTRICT SUMMARY**]
+
 ![District Summ Changes](https://user-images.githubusercontent.com/77905862/128958058-d66341aa-3d96-4cfd-82ae-08e433744475.png)
 
 
 2. How is the School Summary Affected?
+
+[**PRIMARY SCHOOL SUMMARY**]
+
+![School Summary Primary](https://user-images.githubusercontent.com/77905862/128960119-59e22399-eb82-4541-b696-8ee303772e4f.png)
+[**SECONDARY SCHOOL SUMMARY**]
+
+![Proper Code](https://user-images.githubusercontent.com/77905862/128960521-4cf4a16c-ca73-4540-82d7-6a0bf2f4f8ac.png)
+
+
+The school summary [Thomas High School 10th-12th considered ONLY] is affected as follows:
+- Passing math score decreased from the original percentage of 93.2 to 93.18
+- Passing reading scores decreased from the original percentage of 97.30 to 97.01
+- Overall passing scores decreased from the original percentage of 90.94 to 90.63
 3. How Does Replacing the Ninth Graders’ Math and Reading Scores Affect Thomas High School’s Performance Relative to the Other Schools?
 Math and reading scores by grade
 Scores by school spending
