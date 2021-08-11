@@ -42,10 +42,7 @@ The school summary [Thomas High School 10th-12th considered ONLY] is affected as
 - Passing math score decreased from the original percentage of 93.2 to 93.18
 - Passing reading scores decreased from the original percentage of 97.30 to 97.01
 - Overall passing scores decreased from the original percentage of 90.94 to 90.63
-3. How Does Replacing the Ninth Graders’ Math and Reading Scores Affect Thomas High School’s Performance Relative to the Other Schools?
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
+
 Scores by school type
 
 ## SUMMARY ##
