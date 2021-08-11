@@ -49,3 +49,6 @@ Scores by school size
 Scores by school type
 
 ## SUMMARY ##
+
+In summary, upon removing and/or replacing Thomas High School ninth grade data, Maria and I came to the conclusion that no significant changes took place- indicating that the primary data analysis was relatively accurate. 
+It is safe to say that Thomas High School ninth grade has maintained it's academic integrity.
