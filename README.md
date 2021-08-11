@@ -5,6 +5,14 @@ Chief Data Scientist Maria works for a City School District. She is responsible 
 _______________________________________________________________________________________________
 ## RESULTS ##
 1. How is the District Summary Affected?
+
+We applied 'NaN' to declare Thomas High School 9th grade as numerically invalid
+
+
+![NaN](https://user-images.githubusercontent.com/77905862/128958307-1c639ce2-1357-4e9a-b704-c3c2250c3905.png)
+
+
+
 - The overall passing score decreases from the original score of 65 to 64.9
 - The average reading score increased by 0.01
 - The passing score decreased by 0.01
